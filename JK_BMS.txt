@@ -1,4 +1,4 @@
-Отключение разряда: {DD 5A E1 02 00 02 FF 1B 77}
+РћС‚РєР»СЋС‡РµРЅРёРµ СЂР°Р·СЂСЏРґР°: {DD 5A E1 02 00 02 FF 1B 77}
 
 MOSFET OFF OFF	  DD 5A E1 02 00 03 FF 1A 77
 MOSFET OFF ON	  DD 5A E1 02 00 02 FF 1B 77
